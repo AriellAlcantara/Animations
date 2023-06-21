@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 834146403
+    locked: 0
+  - name: Wall
+    uniqueID: 1130424027
+    locked: 0
+  - name: Floor
+    uniqueID: 1427654955
+    locked: 0
+  - name: Player
+    uniqueID: 3051811077
+    locked: 0
+  - name: Chest
+    uniqueID: 3715785589
+    locked: 0
+  - name: Coin
+    uniqueID: 3969762339
+    locked: 0
