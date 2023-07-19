@@ -60,3 +60,6 @@ TagManager:
   - name: Coin
     uniqueID: 3969762339
     locked: 0
+  - name: potion
+    uniqueID: 2266726743
+    locked: 0
